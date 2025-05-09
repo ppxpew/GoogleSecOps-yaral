@@ -6,7 +6,7 @@ This repository contains my custom-built **YARA-L detection rules for Google Chr
 
 These detection rules were crafted to identify suspicious and malicious activity across multiple telemetry fields in Chronicle, including:
  
-  "Soc Tier1 Scope"
+  "Soc Tier1 Scope"     
   #file-
 - `file.name`
 - `file.sha256`
