@@ -19,7 +19,8 @@ These detection rules were crafted to identify suspicious and malicious activity
 - `dns.question.name`
 
 - `user.email`
-Hex-encoded payloads
+- `Hex-encoded payloads`
+
 
   "Soc Tier 2 Scope"
 
